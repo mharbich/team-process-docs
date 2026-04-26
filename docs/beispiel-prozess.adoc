@@ -1,1 +1,20 @@
+= Beispiel Prozess
 
+== Ziel
+Beschreibt den Zweck des Prozesses.
+
+== Voraussetzungen
+- Zugriff vorhanden
+- Berechtigungen gesetzt
+
+== Schritte
+
+. Schritt 1 ausführen
+. Schritt 2 ausführen
+. Schritt 3 prüfen
+
+== Sonderfälle
+- Falls X passiert → Y tun
+
+== Ansprechpartner
+Team XYZ
